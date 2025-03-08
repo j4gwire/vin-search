@@ -20,4 +20,4 @@ run `vin.py`,
 Enter the VIN number of the target vehicle
 
 # License
-This project is licensed under the MIT License. Feel free to improve and share
+This project is licensed under the MIT License. Feel free to improve and share!
